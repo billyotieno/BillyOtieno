@@ -1,6 +1,6 @@
-### Hi there 👋
+- Hi there 👋
 
-### My name is Billy Otieno, and I am a Data Nerd 😄
+- My name is Billy Otieno, I am Software Engineer specializing in AI/ML & Data Engineering
 
 <!--
 **BillyOtieno/BillyOtieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
