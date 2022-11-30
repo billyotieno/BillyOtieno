@@ -1,18 +1,20 @@
-- Hi there 👋
+👋 Hi, I’m Otieno!
 
-- My name is Billy Otieno, I am Software Engineer specializing in AI/ML & Data Engineering
+📊 I am currently a Data Scientist and ML Specialist at Oracle, working as a consultant in the healthcare, finance, agriculture, cybersecurity, etc. industries.
 
-<!--
-**BillyOtieno/BillyOtieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Outside of work I enjoy
 
-Here are some ideas to get you started:
+🏋🏻‍♀️ Cardio & Lifting: I love keeping healthy, excited for anything that keeps my body moving.
+👗 Hicking: Everyone wants to live on top of the mountain, but all the happiness and growth occurs while you are climbing it.
+🍞 Dancing:  Dancing is the poetry of the foot. I love dancing.
+📚 Reading: Give me your best self development recommendations please!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+
+🙇🏻‍♀️ Graph Neural Networks and Its Use-cases
+🔧 MLOPs - More Advanced Approaches of Applying production ML
+ 
+
+📫 How to reach me
+
+⛓ [https://www.linkedin.com/in/billyotieno/](https://www.linkedin.com/in/billyotieno/)
