@@ -15,7 +15,7 @@
 ---
 🌱 I’m currently learning
 
-🙇🏻‍♀️ Graph Neural Networks and Its Use-cases
+🙇🏻‍♀️ Graph Neural Networks and Its Use-cases  
 🔧 MLOPs - More Advanced Approaches of Applying production ML
  
 ---
