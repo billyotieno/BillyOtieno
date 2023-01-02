@@ -2,7 +2,7 @@
 
 ---
 
-📊 I am currently a Data Scientist and ML Specialist at Oracle, working as a consultant in the healthcare, finance, agriculture, cybersecurity, etc. industries.
+📊 I am currently a Technology Solutions Engineer.
 
 ---
 👀 Outside of work I enjoy
