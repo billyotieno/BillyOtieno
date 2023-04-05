@@ -1,24 +1,12 @@
-👋Hi, I’m Otieno!
+👋 Greetings! I'm Otieno, and I'm on a mission to code the world into a better place! 🚀
 
----
+🧑‍💻 As a Solutions Engineer - Technology, Data & Analytics, I've been bringing my A-game to the tech industry for 7+ years now. I'm passionate about Software Engineering, Data Science & Machine Learning, and I always strive to push the boundaries of what's possible.
 
-📊 I am currently a Technology Solutions Engineer.
+🚀 When I'm not coding, you'll find me 🏋🏻‍♀️ Cardio & Lifting, 🕺 Dancing, 📚 Reading or 🥾🏞️🏕🧗🚵 Hicking. I believe in keeping a healthy work-life balance, and nothing energizes me more than [something you're particularly passionate about].
 
----
-👀 Outside of work I enjoy
+📚 I'm a lifelong learner and a tech enthusiast. I'm constantly on the lookout for the latest trends and tools that can help me and my team build better, faster, and more robust software.
 
-🏋🏻‍♀️ Cardio & Lifting: I love keeping healthy, excited for anything that keeps my body moving.  
-👗 Hicking: Everyone wants to live on top of the mountain, but all the happiness and growth occurs while you are climbing it.  
-🍞 Dancing:  Dancing is the poetry of the foot. I love dancing.  
-📚 Reading: Give me your best self development recommendations please!
+🌱 Currently, I'm diving headfirst into Machine Learning, Data Engineering, Graph Neural Networks, MLOps & Analytics, and I'm excited to see where this journey takes me!
 
----
-🌱 I’m currently learning
+📫 Let's connect! You can reach me on [https://www.linkedin.com/in/billyotieno/](https://www.linkedin.com/in/billyotieno/), or check out some of my work on [https://www.linkedin.com/in/billyotieno/](https://www.linkedin.com/in/billyotieno/). Together, let's make the world a better, more innovative place! 🌎
 
-🙇🏻‍♀️ Graph Neural Networks and Its Use-cases  
-🔧 MLOPs - More Advanced Approaches of Applying production ML
- 
----
-📫 How to reach me
-
-⛓ [https://www.linkedin.com/in/billyotieno/](https://www.linkedin.com/in/billyotieno/)
