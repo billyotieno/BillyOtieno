@@ -6,7 +6,7 @@
 
 📚 I'm a lifelong learner and a tech enthusiast. I'm constantly on the lookout for the latest trends and tools that can help me and my team build better, faster, and more robust software.
 
-🌱 Currently, I'm diving headfirst into Machine Learning, Data Engineering, Graph Neural Networks, MLOps & Analytics, and I'm excited to see where this journey takes me!
+🌱 Currently, I'm diving headfirst into Machine Learning, Data Engineering, Graph Neural Networks, MLOps, Generative AI (LLMs) & Analytics, and I'm excited to see where this journey takes me!
 
 📫 Let's connect! You can reach me on [https://www.linkedin.com/in/billyotieno/](https://www.linkedin.com/in/billyotieno/), or check out some of my work on [https://www.linkedin.com/in/billyotieno/](https://www.linkedin.com/in/billyotieno/). Together, let's make the world a better, more innovative place! 🌎
 
